@@ -2,8 +2,8 @@
   "version": "1.4.0",
   "date": "2026-10-28",
   "notes": "新增在线更新：以后有新版直接在面板里点一下就能升级，不用卸载重装，账号和设置全部保留。",
-  "size": 183486,
-  "sha256": "ef05e233faddae0522381808ef18ed8af68ba323e90578b96c5fa96252223aa1",
+  "size": 184825,
+  "sha256": "6982ffee2da217bb7787bc88071447f80aa1ae6de6c273cdff415d69d4785783",
   "url": "cxball-1.4.0.zip",
   "force": false,
   "minFrom": ""
